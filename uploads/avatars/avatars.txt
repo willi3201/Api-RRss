@@ -1,0 +1,1 @@
+carpeta para almacenar localmente los avatar de los usuarios

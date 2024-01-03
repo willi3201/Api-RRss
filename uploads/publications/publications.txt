@@ -1,0 +1,1 @@
+carpeta para almacenar las imagenes de cada publicacion
